@@ -1,6 +1,6 @@
 # ignore target folder
-model/_pycache__
-utils/_pycache__
+model/__pycache__
+utils/__pycache__
 train/.ipynb_checkpoints
 train/log
 
